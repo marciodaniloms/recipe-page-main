@@ -56,7 +56,7 @@ h1{
   padding-bottom: 1em;
 }
 .ingredients h3{
-  margin: 2rem 0 1.5rem 0;
+  margin: 0 0 1.5rem 0;
 }
 .ingredients ul li {
   margin-left: 2.125rem; 
@@ -83,11 +83,15 @@ h1{
 }
 .steps li{
   color: var(--brown800);
+
 }
 .steps li p{
   margin-left: 1rem;
   font-weight: 400;
   color: var(--stone600);
+}
+.margin-8{
+  margin: 0.5rem 0;
 }
 .nutrition{
   color: var(--brown800);
@@ -132,6 +136,7 @@ h1{
   .container{
     border-radius: 0;
     padding: 0;
+    margin: 0;
    }
   .omelete{
   width: 375px;
