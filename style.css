@@ -132,11 +132,12 @@ h1{
 
  /*     MOBILE       */
 
-@media (max-width: 576px){
+@media (max-width: 500px){
   .container{
     border-radius: 0;
-    padding: 0;
     margin: 0;
+    max-width: 375px;
+    padding: 0;
    }
   .omelete{
   width: 375px;
@@ -146,7 +147,11 @@ h1{
  h1{
   font-size: 2.25rem!important;
   line-height: 100%;
+  margin: 0 32px 0 32px;
  }
+ .dish{
+  margin: 24px 32px 0 32px;
+  }
  .line{
   margin: 2rem;
  }
