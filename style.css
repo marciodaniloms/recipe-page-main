@@ -62,7 +62,6 @@ h1{
   margin-left: 2.125rem; 
 }
 .ingredients li{
-  margin:  0.5rem 0 0 .750rem;
   color: var(--brown800);
 }
 .ingredients li p{
@@ -72,6 +71,7 @@ h1{
 .line{
   margin: 2rem 0;
   color: var(--stone150);
+  border: 1 solid;
 }
 .instructions h3{
   margin-bottom: 1.5rem;
