@@ -13,7 +13,7 @@ body{
 }
 .container{
   background-color: white;
-  max-width: 46em;
+  max-width: 46rem;
   border-radius: 1.5em;
   padding: 2.5em;
   margin: 8rem 0;
@@ -26,7 +26,7 @@ img{
   border-radius: 0.75rem;
 }
 .header{
-  padding: 2rem;
+  padding: 2rem 0;
 }
 h1{
   margin-bottom: 2rem;
