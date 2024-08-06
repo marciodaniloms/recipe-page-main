@@ -9,7 +9,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--rose50);
+  background-color: var(--stone100);
 }
 .container{
   background-color: white;
@@ -110,6 +110,20 @@ h1{
   margin: 0.75em 0;
   color: var(--stone150);
 }
+/*      TABLET        */
+
+@media(max-width: 810px){
+  .container{
+    max-width: 38.5rem;
+  }
+  .omelete{
+    width: 536px;
+    height: 300px;
+  }
+}
+
+
+
 
  /*     MOBILE       */
 
