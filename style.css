@@ -105,17 +105,18 @@ h1{
   grid-template-columns: 1fr 1fr;
 }
 .col1{
-  margin-left: 2em;
-}
-.col1{
   display: grid;
   grid-template-columns: 1fr 1fr;
+  margin-left: 2em;
 }
 .linetable{
   margin: 0.75em 0;
   color: var(--stone150);
 }
+
+
 /*      TABLET        */
+
 
 @media(max-width: 810px){
   .container{
@@ -126,8 +127,6 @@ h1{
     height: 300px;
   }
 }
-
-
 
 
  /*     MOBILE       */
@@ -161,8 +160,11 @@ h1{
  .time h3{
   font-size: 1.25rem;
  }
- .ingredients,.instructions{  
+ .ingredients{  
   padding: 0 2rem;
+ }
+ .instructions{  
+  padding: 0 1rem;
  }
  .ingredientstitle{
   margin: 2rem 2rem 1.5rem 2rem;

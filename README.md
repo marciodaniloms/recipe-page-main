@@ -21,13 +21,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 Desktop version:
-![](./design/Desktop%20Screenshot%202024-08-05%20at%2014-38-28%20Frontend%20Mentor%20Recipe%20page.png)
+![](./design/Desktop%20Screenshot%202024-08-07%20at%2008-41-34%20Frontend%20Mentor%20Recipe%20page.png)
 
 Tablet version:
-![](./design/Tablet%20Screenshot%202024-08-05%20at%2014-45-46%20Frontend%20Mentor%20Recipe%20page.png)
+![](./design/Tablet%20Screenshot%202024-08-07%20at%2008-42-03%20Frontend%20Mentor%20Recipe%20page.png)
 
 Mobile version:
-![](./design/Mobile%20Screenshot%202024-08-05%20at%2014-38-58%20Frontend%20Mentor%20Recipe%20page.png)
+![](./design/Mobile%20Screenshot%202024-08-07%20at%2008-42-44%20Frontend%20Mentor%20Recipe%20page.png)
 
 ### Links
 
